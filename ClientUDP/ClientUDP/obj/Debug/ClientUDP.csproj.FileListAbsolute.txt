@@ -1,0 +1,10 @@
+c:\users\mikio\Documents\Visual Studio 2015\Projects\WS2016-2017\ClientUDP\ClientUDP\bin\Debug\ClientUDP.exe.config
+c:\users\mikio\Documents\Visual Studio 2015\Projects\WS2016-2017\ClientUDP\ClientUDP\bin\Debug\ClientUDP.exe
+c:\users\mikio\Documents\Visual Studio 2015\Projects\WS2016-2017\ClientUDP\ClientUDP\bin\Debug\ClientUDP.pdb
+c:\users\mikio\Documents\Visual Studio 2015\Projects\WS2016-2017\ClientUDP\ClientUDP\obj\Debug\ClientUDP.exe
+c:\users\mikio\Documents\Visual Studio 2015\Projects\WS2016-2017\ClientUDP\ClientUDP\obj\Debug\ClientUDP.pdb
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ClientUDP\ClientUDP\bin\Debug\ClientUDP.exe.config
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ClientUDP\ClientUDP\bin\Debug\ClientUDP.exe
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ClientUDP\ClientUDP\bin\Debug\ClientUDP.pdb
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ClientUDP\ClientUDP\obj\Debug\ClientUDP.exe
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ClientUDP\ClientUDP\obj\Debug\ClientUDP.pdb
